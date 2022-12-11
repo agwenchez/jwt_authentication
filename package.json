@@ -18,7 +18,7 @@
     "concurrently": "^3.6.0",
     "config": "^3.2.0",
     "eslint": "^6.0.1",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.5.0",
     "mongodb": "^3.2.7",
     "mongoose": "^5.1.6",
